@@ -1,2 +1,2 @@
 # tests
-tests 123
+tests 123 123
